@@ -42,6 +42,23 @@ After putting the input, output, and program file (App.java) into a folder, comp
 
 
 ## Examples
+Input 1:
+![resim](https://user-images.githubusercontent.com/104105674/234921190-667adebf-ab71-46bd-b8b1-df1bc9607061.png)
+
+Output 1: 
+![resim](https://user-images.githubusercontent.com/104105674/234921292-8bb4c9f0-ecfa-4303-a120-2834910280ee.png)
+![resim](https://user-images.githubusercontent.com/104105674/234921302-406e10da-971c-484a-b7ec-c5279d574e39.png)
+![resim](https://user-images.githubusercontent.com/104105674/234921309-44b42c86-24d6-4b40-9df3-69a443065172.png)
+
+Input 2:
+![resim](https://user-images.githubusercontent.com/104105674/234921339-4b832e3f-8fc1-4987-a53f-f2065e16e697.png)
+
+Output 2:
+![resim](https://user-images.githubusercontent.com/104105674/234921413-d8702610-60d6-4492-9c99-e75b2ddc6ee5.png)
+![resim](https://user-images.githubusercontent.com/104105674/234921449-1e8ab5f0-0a54-4f33-8f7c-6714c7203180.png)
+
+
+
 
 
 
