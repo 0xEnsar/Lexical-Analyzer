@@ -66,5 +66,5 @@ Output 2:
 ## Contributors
 
 - [@aiSD2109 ](https://github.com/aiSD2109) (Mustafa Said Çanak).
-- [@darkkgul ](https://github.com/darkkgul) (Muhammed Talha Karagül).
+- [@mtkaragul ](https://github.com/mtkaragul) (Muhammed Talha Karagül).
 - [@0xEnsar ](https://github.com/0xEnsar) (Ensar M. Yozgat).
